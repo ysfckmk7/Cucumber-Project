@@ -56,6 +56,8 @@ public class Driver {
     }
 
 
+
+
     public static void closeDriver(){
         if (driver!=null){
             driver.quit();
